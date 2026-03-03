@@ -2,9 +2,9 @@ import re
 
 class ItemParser:
     REF_PATTERN = re.compile(r"Referência:\s*(\d+)", re.IGNORECASE)
-    PRICE_PATTERN = re.compile(r"Preço:\s*R\$\s*(\d+[\.,]\d{2})", re.IGNORECASE)
-    # Improved: Just find the word Total and the number, ignoring line endings
-    STOCK_PATTERN = re.compile(r"Total\s+(\d+)", re.IGNORECASE)
+    PRICE_PATTERN = re.compile(r"Preço:.*?R\$\s*(\d+[\.,]\d{2})", re.IGNORECASE)
+    TOTAL_ROW_PATTERN = re.compile(r"^\s*Total.*", re.IGNORECASE | re.MULTILINE)
+    DIGITS_PATTERN = re.compile(r"\d+")
 
     @classmethod
     def parse_block(cls, text, page_num):
@@ -16,14 +16,14 @@ class ItemParser:
             price_match = cls.PRICE_PATTERN.search(content)
             
             if ref_match and price_match:
-                # 1. Find all occurrences of "Total X" in this specific product block
-                stock_matches = cls.STOCK_PATTERN.findall(content)
-                
-                # 2. The very last 'Total' in the block is the one we want (Grand Total)
-                # This ignores the 'Total' in the header row (P M G Total)
                 stock = 0
-                if stock_matches:
-                    stock = int(stock_matches[-1]) 
+                total_row_match = cls.TOTAL_ROW_PATTERN.search(content)
+                
+                if total_row_match:
+                    total_row_text = total_row_match.group(0)
+                    all_nums = cls.DIGITS_PATTERN.findall(total_row_text)
+                    if all_nums:
+                        stock = int(all_nums[-1])
                 
                 items.append(
                     cls.build_item(
