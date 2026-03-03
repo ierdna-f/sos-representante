@@ -1,2 +1,3 @@
 # Ignore everything in input
 input/*
+**/__pycache__/
