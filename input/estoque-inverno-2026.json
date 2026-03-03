@@ -1,0 +1,1766 @@
+[
+    {
+        "reference": "13600",
+        "original_price": 16.0,
+        "stock": 0,
+        "page": 1
+    },
+    {
+        "reference": "20798",
+        "original_price": 69.52,
+        "stock": 326,
+        "page": 1
+    },
+    {
+        "reference": "20799",
+        "original_price": 152.06,
+        "stock": 19,
+        "page": 1
+    },
+    {
+        "reference": "20800",
+        "original_price": 136.19,
+        "stock": 32,
+        "page": 1
+    },
+    {
+        "reference": "20801",
+        "original_price": 101.27,
+        "stock": 5,
+        "page": 1
+    },
+    {
+        "reference": "20802",
+        "original_price": 133.02,
+        "stock": 234,
+        "page": 1
+    },
+    {
+        "reference": "20803",
+        "original_price": 177.46,
+        "stock": 3,
+        "page": 1
+    },
+    {
+        "reference": "20804",
+        "original_price": 171.11,
+        "stock": 5,
+        "page": 1
+    },
+    {
+        "reference": "20805",
+        "original_price": 113.97,
+        "stock": 162,
+        "page": 2
+    },
+    {
+        "reference": "20806",
+        "original_price": 104.44,
+        "stock": 1,
+        "page": 2
+    },
+    {
+        "reference": "20807",
+        "original_price": 101.27,
+        "stock": 106,
+        "page": 2
+    },
+    {
+        "reference": "20808",
+        "original_price": 177.46,
+        "stock": 65,
+        "page": 2
+    },
+    {
+        "reference": "20809",
+        "original_price": 142.54,
+        "stock": 73,
+        "page": 2
+    },
+    {
+        "reference": "20810",
+        "original_price": 94.92,
+        "stock": 248,
+        "page": 2
+    },
+    {
+        "reference": "20812",
+        "original_price": 148.89,
+        "stock": 68,
+        "page": 2
+    },
+    {
+        "reference": "20813",
+        "original_price": 117.14,
+        "stock": 188,
+        "page": 2
+    },
+    {
+        "reference": "20814",
+        "original_price": 161.59,
+        "stock": 28,
+        "page": 3
+    },
+    {
+        "reference": "20815",
+        "original_price": 101.27,
+        "stock": 38,
+        "page": 3
+    },
+    {
+        "reference": "20821",
+        "original_price": 104.44,
+        "stock": 42,
+        "page": 3
+    },
+    {
+        "reference": "20822",
+        "original_price": 94.92,
+        "stock": 21,
+        "page": 3
+    },
+    {
+        "reference": "20823",
+        "original_price": 129.84,
+        "stock": 137,
+        "page": 3
+    },
+    {
+        "reference": "20824",
+        "original_price": 142.54,
+        "stock": 149,
+        "page": 3
+    },
+    {
+        "reference": "20825",
+        "original_price": 110.79,
+        "stock": 68,
+        "page": 3
+    },
+    {
+        "reference": "20826",
+        "original_price": 145.71,
+        "stock": 3,
+        "page": 3
+    },
+    {
+        "reference": "20827",
+        "original_price": 164.76,
+        "stock": 27,
+        "page": 4
+    },
+    {
+        "reference": "20828",
+        "original_price": 82.22,
+        "stock": 315,
+        "page": 4
+    },
+    {
+        "reference": "20829",
+        "original_price": 158.41,
+        "stock": 114,
+        "page": 4
+    },
+    {
+        "reference": "20830",
+        "original_price": 145.71,
+        "stock": 18,
+        "page": 4
+    },
+    {
+        "reference": "20831",
+        "original_price": 136.19,
+        "stock": 15,
+        "page": 4
+    },
+    {
+        "reference": "20832",
+        "original_price": 158.41,
+        "stock": 14,
+        "page": 4
+    },
+    {
+        "reference": "20833",
+        "original_price": 126.67,
+        "stock": 79,
+        "page": 4
+    },
+    {
+        "reference": "20834",
+        "original_price": 158.41,
+        "stock": 28,
+        "page": 4
+    },
+    {
+        "reference": "20835",
+        "original_price": 145.71,
+        "stock": 14,
+        "page": 5
+    },
+    {
+        "reference": "20836",
+        "original_price": 158.41,
+        "stock": 58,
+        "page": 5
+    },
+    {
+        "reference": "20843",
+        "original_price": 91.75,
+        "stock": 17,
+        "page": 5
+    },
+    {
+        "reference": "20844",
+        "original_price": 94.92,
+        "stock": 185,
+        "page": 5
+    },
+    {
+        "reference": "20845",
+        "original_price": 63.17,
+        "stock": 68,
+        "page": 5
+    },
+    {
+        "reference": "20846",
+        "original_price": 69.52,
+        "stock": 33,
+        "page": 5
+    },
+    {
+        "reference": "20847",
+        "original_price": 50.48,
+        "stock": 245,
+        "page": 5
+    },
+    {
+        "reference": "21065",
+        "original_price": 47.3,
+        "stock": 274,
+        "page": 5
+    },
+    {
+        "reference": "21066",
+        "original_price": 82.22,
+        "stock": 162,
+        "page": 6
+    },
+    {
+        "reference": "21067",
+        "original_price": 94.92,
+        "stock": 39,
+        "page": 6
+    },
+    {
+        "reference": "21068",
+        "original_price": 110.79,
+        "stock": 113,
+        "page": 6
+    },
+    {
+        "reference": "21069",
+        "original_price": 174.29,
+        "stock": 1,
+        "page": 6
+    },
+    {
+        "reference": "21070",
+        "original_price": 94.92,
+        "stock": 95,
+        "page": 6
+    },
+    {
+        "reference": "21071",
+        "original_price": 91.75,
+        "stock": 193,
+        "page": 6
+    },
+    {
+        "reference": "21072",
+        "original_price": 110.79,
+        "stock": 36,
+        "page": 6
+    },
+    {
+        "reference": "21073",
+        "original_price": 133.02,
+        "stock": 61,
+        "page": 6
+    },
+    {
+        "reference": "21074",
+        "original_price": 133.02,
+        "stock": 144,
+        "page": 7
+    },
+    {
+        "reference": "21075",
+        "original_price": 152.06,
+        "stock": 25,
+        "page": 7
+    },
+    {
+        "reference": "21076",
+        "original_price": 152.06,
+        "stock": 25,
+        "page": 7
+    },
+    {
+        "reference": "21077",
+        "original_price": 142.54,
+        "stock": 63,
+        "page": 7
+    },
+    {
+        "reference": "21078",
+        "original_price": 152.06,
+        "stock": 71,
+        "page": 7
+    },
+    {
+        "reference": "21079",
+        "original_price": 148.89,
+        "stock": 74,
+        "page": 7
+    },
+    {
+        "reference": "21080",
+        "original_price": 186.98,
+        "stock": 13,
+        "page": 7
+    },
+    {
+        "reference": "21081",
+        "original_price": 152.06,
+        "stock": 135,
+        "page": 7
+    },
+    {
+        "reference": "21082",
+        "original_price": 136.19,
+        "stock": 41,
+        "page": 8
+    },
+    {
+        "reference": "21083",
+        "original_price": 126.67,
+        "stock": 102,
+        "page": 8
+    },
+    {
+        "reference": "21084",
+        "original_price": 174.29,
+        "stock": 30,
+        "page": 8
+    },
+    {
+        "reference": "21085",
+        "original_price": 202.86,
+        "stock": 29,
+        "page": 8
+    },
+    {
+        "reference": "21086",
+        "original_price": 206.03,
+        "stock": 67,
+        "page": 8
+    },
+    {
+        "reference": "21087",
+        "original_price": 180.63,
+        "stock": 82,
+        "page": 8
+    },
+    {
+        "reference": "21088",
+        "original_price": 180.63,
+        "stock": 43,
+        "page": 8
+    },
+    {
+        "reference": "21089",
+        "original_price": 88.57,
+        "stock": 123,
+        "page": 8
+    },
+    {
+        "reference": "21090",
+        "original_price": 104.44,
+        "stock": 58,
+        "page": 9
+    },
+    {
+        "reference": "21091",
+        "original_price": 117.14,
+        "stock": 14,
+        "page": 9
+    },
+    {
+        "reference": "21092",
+        "original_price": 155.24,
+        "stock": 13,
+        "page": 9
+    },
+    {
+        "reference": "21093",
+        "original_price": 158.41,
+        "stock": 114,
+        "page": 9
+    },
+    {
+        "reference": "21094",
+        "original_price": 155.24,
+        "stock": 0,
+        "page": 9
+    },
+    {
+        "reference": "21095",
+        "original_price": 174.29,
+        "stock": 56,
+        "page": 9
+    },
+    {
+        "reference": "21096",
+        "original_price": 202.86,
+        "stock": 37,
+        "page": 9
+    },
+    {
+        "reference": "21097",
+        "original_price": 186.98,
+        "stock": 87,
+        "page": 9
+    },
+    {
+        "reference": "21098",
+        "original_price": 199.68,
+        "stock": 19,
+        "page": 10
+    },
+    {
+        "reference": "21099",
+        "original_price": 218.73,
+        "stock": 27,
+        "page": 10
+    },
+    {
+        "reference": "21100",
+        "original_price": 85.4,
+        "stock": 0,
+        "page": 10
+    },
+    {
+        "reference": "21101",
+        "original_price": 148.89,
+        "stock": 20,
+        "page": 10
+    },
+    {
+        "reference": "21102",
+        "original_price": 101.27,
+        "stock": 66,
+        "page": 10
+    },
+    {
+        "reference": "21103",
+        "original_price": 113.97,
+        "stock": 103,
+        "page": 10
+    },
+    {
+        "reference": "21104",
+        "original_price": 110.79,
+        "stock": 123,
+        "page": 10
+    },
+    {
+        "reference": "21105",
+        "original_price": 145.71,
+        "stock": 115,
+        "page": 10
+    },
+    {
+        "reference": "21106",
+        "original_price": 94.92,
+        "stock": 0,
+        "page": 11
+    },
+    {
+        "reference": "21107",
+        "original_price": 126.67,
+        "stock": 0,
+        "page": 11
+    },
+    {
+        "reference": "21108",
+        "original_price": 94.92,
+        "stock": 29,
+        "page": 11
+    },
+    {
+        "reference": "21109",
+        "original_price": 133.02,
+        "stock": 30,
+        "page": 11
+    },
+    {
+        "reference": "21110",
+        "original_price": 152.06,
+        "stock": 23,
+        "page": 11
+    },
+    {
+        "reference": "21111",
+        "original_price": 94.92,
+        "stock": 132,
+        "page": 11
+    },
+    {
+        "reference": "21112",
+        "original_price": 126.67,
+        "stock": 67,
+        "page": 11
+    },
+    {
+        "reference": "21126",
+        "original_price": 53.65,
+        "stock": 113,
+        "page": 11
+    },
+    {
+        "reference": "21127",
+        "original_price": 69.52,
+        "stock": 46,
+        "page": 12
+    },
+    {
+        "reference": "21128",
+        "original_price": 91.75,
+        "stock": 66,
+        "page": 12
+    },
+    {
+        "reference": "21129",
+        "original_price": 190.16,
+        "stock": 58,
+        "page": 12
+    },
+    {
+        "reference": "21130",
+        "original_price": 174.29,
+        "stock": 70,
+        "page": 12
+    },
+    {
+        "reference": "21131",
+        "original_price": 107.62,
+        "stock": 21,
+        "page": 12
+    },
+    {
+        "reference": "21132",
+        "original_price": 206.03,
+        "stock": 254,
+        "page": 12
+    },
+    {
+        "reference": "21133",
+        "original_price": 174.29,
+        "stock": 61,
+        "page": 12
+    },
+    {
+        "reference": "21134",
+        "original_price": 174.29,
+        "stock": 64,
+        "page": 12
+    },
+    {
+        "reference": "21135",
+        "original_price": 190.16,
+        "stock": 70,
+        "page": 13
+    },
+    {
+        "reference": "21136",
+        "original_price": 190.16,
+        "stock": 51,
+        "page": 13
+    },
+    {
+        "reference": "21137",
+        "original_price": 228.25,
+        "stock": 66,
+        "page": 13
+    },
+    {
+        "reference": "21138",
+        "original_price": 126.67,
+        "stock": 264,
+        "page": 13
+    },
+    {
+        "reference": "21139",
+        "original_price": 145.71,
+        "stock": 190,
+        "page": 13
+    },
+    {
+        "reference": "21140",
+        "original_price": 129.84,
+        "stock": 88,
+        "page": 13
+    },
+    {
+        "reference": "21141",
+        "original_price": 152.06,
+        "stock": 149,
+        "page": 13
+    },
+    {
+        "reference": "21142",
+        "original_price": 167.94,
+        "stock": 11,
+        "page": 13
+    },
+    {
+        "reference": "21143",
+        "original_price": 148.89,
+        "stock": 0,
+        "page": 14
+    },
+    {
+        "reference": "21144",
+        "original_price": 158.41,
+        "stock": 61,
+        "page": 14
+    },
+    {
+        "reference": "21145",
+        "original_price": 190.16,
+        "stock": 17,
+        "page": 14
+    },
+    {
+        "reference": "21146",
+        "original_price": 180.63,
+        "stock": 6,
+        "page": 14
+    },
+    {
+        "reference": "21147",
+        "original_price": 180.63,
+        "stock": 37,
+        "page": 14
+    },
+    {
+        "reference": "21148",
+        "original_price": 190.16,
+        "stock": 64,
+        "page": 14
+    },
+    {
+        "reference": "21149",
+        "original_price": 177.46,
+        "stock": 63,
+        "page": 14
+    },
+    {
+        "reference": "21150",
+        "original_price": 167.94,
+        "stock": 20,
+        "page": 14
+    },
+    {
+        "reference": "21151",
+        "original_price": 180.63,
+        "stock": 23,
+        "page": 15
+    },
+    {
+        "reference": "21152",
+        "original_price": 206.03,
+        "stock": 25,
+        "page": 15
+    },
+    {
+        "reference": "21154",
+        "original_price": 113.97,
+        "stock": 1,
+        "page": 15
+    },
+    {
+        "reference": "21156",
+        "original_price": 110.79,
+        "stock": 5,
+        "page": 15
+    },
+    {
+        "reference": "21157",
+        "original_price": 85.4,
+        "stock": 36,
+        "page": 15
+    },
+    {
+        "reference": "21158",
+        "original_price": 110.79,
+        "stock": 0,
+        "page": 15
+    },
+    {
+        "reference": "21159",
+        "original_price": 152.06,
+        "stock": 0,
+        "page": 15
+    },
+    {
+        "reference": "21160",
+        "original_price": 110.79,
+        "stock": 3,
+        "page": 15
+    },
+    {
+        "reference": "21161",
+        "original_price": 110.79,
+        "stock": 71,
+        "page": 16
+    },
+    {
+        "reference": "23018",
+        "original_price": 114.0,
+        "stock": 13,
+        "page": 16
+    },
+    {
+        "reference": "23020",
+        "original_price": 222.57,
+        "stock": 17,
+        "page": 16
+    },
+    {
+        "reference": "23022",
+        "original_price": 176.85,
+        "stock": 0,
+        "page": 16
+    },
+    {
+        "reference": "23023",
+        "original_price": 136.85,
+        "stock": 17,
+        "page": 16
+    },
+    {
+        "reference": "23024",
+        "original_price": 134.0,
+        "stock": 36,
+        "page": 16
+    },
+    {
+        "reference": "25200",
+        "original_price": 63.17,
+        "stock": 156,
+        "page": 16
+    },
+    {
+        "reference": "25201",
+        "original_price": 85.4,
+        "stock": 24,
+        "page": 16
+    },
+    {
+        "reference": "25202",
+        "original_price": 126.67,
+        "stock": 5,
+        "page": 17
+    },
+    {
+        "reference": "25203",
+        "original_price": 126.67,
+        "stock": 33,
+        "page": 17
+    },
+    {
+        "reference": "25204",
+        "original_price": 145.71,
+        "stock": 36,
+        "page": 17
+    },
+    {
+        "reference": "25205",
+        "original_price": 117.14,
+        "stock": 32,
+        "page": 17
+    },
+    {
+        "reference": "25206",
+        "original_price": 133.02,
+        "stock": 124,
+        "page": 17
+    },
+    {
+        "reference": "25207",
+        "original_price": 171.11,
+        "stock": 55,
+        "page": 17
+    },
+    {
+        "reference": "25208",
+        "original_price": 158.41,
+        "stock": 4,
+        "page": 17
+    },
+    {
+        "reference": "25209",
+        "original_price": 158.41,
+        "stock": 89,
+        "page": 17
+    },
+    {
+        "reference": "25210",
+        "original_price": 142.54,
+        "stock": 33,
+        "page": 18
+    },
+    {
+        "reference": "25211",
+        "original_price": 190.16,
+        "stock": 72,
+        "page": 18
+    },
+    {
+        "reference": "25212",
+        "original_price": 145.71,
+        "stock": 35,
+        "page": 18
+    },
+    {
+        "reference": "25213",
+        "original_price": 228.25,
+        "stock": 48,
+        "page": 18
+    },
+    {
+        "reference": "25214",
+        "original_price": 164.76,
+        "stock": 45,
+        "page": 18
+    },
+    {
+        "reference": "25215",
+        "original_price": 237.78,
+        "stock": 13,
+        "page": 18
+    },
+    {
+        "reference": "25216",
+        "original_price": 285.4,
+        "stock": 38,
+        "page": 18
+    },
+    {
+        "reference": "25217",
+        "original_price": 285.4,
+        "stock": 76,
+        "page": 18
+    },
+    {
+        "reference": "25218",
+        "original_price": 266.35,
+        "stock": 92,
+        "page": 19
+    },
+    {
+        "reference": "25219",
+        "original_price": 113.97,
+        "stock": 185,
+        "page": 19
+    },
+    {
+        "reference": "25220",
+        "original_price": 190.16,
+        "stock": 18,
+        "page": 19
+    },
+    {
+        "reference": "25221",
+        "original_price": 221.9,
+        "stock": 13,
+        "page": 19
+    },
+    {
+        "reference": "25222",
+        "original_price": 180.63,
+        "stock": 0,
+        "page": 19
+    },
+    {
+        "reference": "25223",
+        "original_price": 206.03,
+        "stock": 17,
+        "page": 19
+    },
+    {
+        "reference": "25224",
+        "original_price": 206.03,
+        "stock": 55,
+        "page": 19
+    },
+    {
+        "reference": "25225",
+        "original_price": 247.3,
+        "stock": 61,
+        "page": 19
+    },
+    {
+        "reference": "25226",
+        "original_price": 266.35,
+        "stock": 43,
+        "page": 20
+    },
+    {
+        "reference": "25227",
+        "original_price": 218.73,
+        "stock": 30,
+        "page": 20
+    },
+    {
+        "reference": "25228",
+        "original_price": 79.05,
+        "stock": 0,
+        "page": 20
+    },
+    {
+        "reference": "25229",
+        "original_price": 206.03,
+        "stock": 75,
+        "page": 20
+    },
+    {
+        "reference": "25230",
+        "original_price": 113.97,
+        "stock": 0,
+        "page": 20
+    },
+    {
+        "reference": "25231",
+        "original_price": 152.06,
+        "stock": 0,
+        "page": 20
+    },
+    {
+        "reference": "25232",
+        "original_price": 126.67,
+        "stock": 60,
+        "page": 20
+    },
+    {
+        "reference": "25233",
+        "original_price": 171.11,
+        "stock": 36,
+        "page": 20
+    },
+    {
+        "reference": "25234",
+        "original_price": 158.41,
+        "stock": 1,
+        "page": 21
+    },
+    {
+        "reference": "25235",
+        "original_price": 142.54,
+        "stock": 0,
+        "page": 21
+    },
+    {
+        "reference": "25236",
+        "original_price": 126.67,
+        "stock": 57,
+        "page": 21
+    },
+    {
+        "reference": "25237",
+        "original_price": 158.41,
+        "stock": 70,
+        "page": 21
+    },
+    {
+        "reference": "25238",
+        "original_price": 142.54,
+        "stock": 28,
+        "page": 21
+    },
+    {
+        "reference": "25239",
+        "original_price": 142.54,
+        "stock": 3,
+        "page": 21
+    },
+    {
+        "reference": "25241",
+        "original_price": 88.57,
+        "stock": 205,
+        "page": 21
+    },
+    {
+        "reference": "25242",
+        "original_price": 79.05,
+        "stock": 174,
+        "page": 21
+    },
+    {
+        "reference": "25243",
+        "original_price": 126.67,
+        "stock": 12,
+        "page": 22
+    },
+    {
+        "reference": "25245",
+        "original_price": 66.35,
+        "stock": 11,
+        "page": 22
+    },
+    {
+        "reference": "25246",
+        "original_price": 117.14,
+        "stock": 3,
+        "page": 22
+    },
+    {
+        "reference": "25247",
+        "original_price": 44.13,
+        "stock": 76,
+        "page": 22
+    },
+    {
+        "reference": "25248",
+        "original_price": 47.3,
+        "stock": 19,
+        "page": 22
+    },
+    {
+        "reference": "25249",
+        "original_price": 56.83,
+        "stock": 24,
+        "page": 22
+    },
+    {
+        "reference": "25250",
+        "original_price": 98.1,
+        "stock": 83,
+        "page": 22
+    },
+    {
+        "reference": "25255",
+        "original_price": 66.35,
+        "stock": 67,
+        "page": 22
+    },
+    {
+        "reference": "25256",
+        "original_price": 79.05,
+        "stock": 28,
+        "page": 23
+    },
+    {
+        "reference": "25257",
+        "original_price": 104.44,
+        "stock": 107,
+        "page": 23
+    },
+    {
+        "reference": "25258",
+        "original_price": 142.54,
+        "stock": 59,
+        "page": 23
+    },
+    {
+        "reference": "25259",
+        "original_price": 221.9,
+        "stock": 0,
+        "page": 23
+    },
+    {
+        "reference": "25260",
+        "original_price": 237.78,
+        "stock": 26,
+        "page": 23
+    },
+    {
+        "reference": "25261",
+        "original_price": 120.32,
+        "stock": 15,
+        "page": 23
+    },
+    {
+        "reference": "25262",
+        "original_price": 164.76,
+        "stock": 81,
+        "page": 23
+    },
+    {
+        "reference": "25263",
+        "original_price": 285.4,
+        "stock": 160,
+        "page": 23
+    },
+    {
+        "reference": "25264",
+        "original_price": 190.16,
+        "stock": 39,
+        "page": 24
+    },
+    {
+        "reference": "25265",
+        "original_price": 291.75,
+        "stock": 0,
+        "page": 24
+    },
+    {
+        "reference": "25266",
+        "original_price": 240.95,
+        "stock": 108,
+        "page": 24
+    },
+    {
+        "reference": "25267",
+        "original_price": 158.41,
+        "stock": 241,
+        "page": 24
+    },
+    {
+        "reference": "25268",
+        "original_price": 190.16,
+        "stock": 26,
+        "page": 24
+    },
+    {
+        "reference": "25269",
+        "original_price": 190.16,
+        "stock": 18,
+        "page": 24
+    },
+    {
+        "reference": "25270",
+        "original_price": 266.35,
+        "stock": 81,
+        "page": 24
+    },
+    {
+        "reference": "25271",
+        "original_price": 240.95,
+        "stock": 69,
+        "page": 24
+    },
+    {
+        "reference": "25272",
+        "original_price": 247.3,
+        "stock": 5,
+        "page": 25
+    },
+    {
+        "reference": "25273",
+        "original_price": 206.03,
+        "stock": 2,
+        "page": 25
+    },
+    {
+        "reference": "25274",
+        "original_price": 237.78,
+        "stock": 37,
+        "page": 25
+    },
+    {
+        "reference": "25275",
+        "original_price": 234.6,
+        "stock": 24,
+        "page": 25
+    },
+    {
+        "reference": "25276",
+        "original_price": 266.35,
+        "stock": 7,
+        "page": 25
+    },
+    {
+        "reference": "25277",
+        "original_price": 237.78,
+        "stock": 57,
+        "page": 25
+    },
+    {
+        "reference": "25278",
+        "original_price": 117.14,
+        "stock": 64,
+        "page": 25
+    },
+    {
+        "reference": "25279",
+        "original_price": 171.11,
+        "stock": 48,
+        "page": 25
+    },
+    {
+        "reference": "25280",
+        "original_price": 171.11,
+        "stock": 39,
+        "page": 26
+    },
+    {
+        "reference": "25281",
+        "original_price": 148.89,
+        "stock": 82,
+        "page": 26
+    },
+    {
+        "reference": "25282",
+        "original_price": 152.06,
+        "stock": 0,
+        "page": 26
+    },
+    {
+        "reference": "25283",
+        "original_price": 190.16,
+        "stock": 76,
+        "page": 26
+    },
+    {
+        "reference": "25290",
+        "original_price": 69.52,
+        "stock": 79,
+        "page": 26
+    },
+    {
+        "reference": "25291",
+        "original_price": 56.83,
+        "stock": 71,
+        "page": 26
+    },
+    {
+        "reference": "25292",
+        "original_price": 44.13,
+        "stock": 35,
+        "page": 26
+    },
+    {
+        "reference": "25293",
+        "original_price": 72.7,
+        "stock": 29,
+        "page": 26
+    },
+    {
+        "reference": "25294",
+        "original_price": 66.35,
+        "stock": 21,
+        "page": 27
+    },
+    {
+        "reference": "25295",
+        "original_price": 123.49,
+        "stock": 35,
+        "page": 27
+    },
+    {
+        "reference": "25296",
+        "original_price": 110.79,
+        "stock": 41,
+        "page": 27
+    },
+    {
+        "reference": "25297",
+        "original_price": 47.3,
+        "stock": 0,
+        "page": 27
+    },
+    {
+        "reference": "25298",
+        "original_price": 66.35,
+        "stock": 67,
+        "page": 27
+    },
+    {
+        "reference": "25299",
+        "original_price": 60.0,
+        "stock": 0,
+        "page": 27
+    },
+    {
+        "reference": "25300",
+        "original_price": 47.3,
+        "stock": 0,
+        "page": 27
+    },
+    {
+        "reference": "27298",
+        "original_price": 114.0,
+        "stock": 25,
+        "page": 27
+    },
+    {
+        "reference": "27299",
+        "original_price": 202.57,
+        "stock": 25,
+        "page": 28
+    },
+    {
+        "reference": "27301",
+        "original_price": 79.71,
+        "stock": 6,
+        "page": 28
+    },
+    {
+        "reference": "27302",
+        "original_price": 114.0,
+        "stock": 0,
+        "page": 28
+    },
+    {
+        "reference": "27304",
+        "original_price": 185.42,
+        "stock": 33,
+        "page": 28
+    },
+    {
+        "reference": "27305",
+        "original_price": 228.28,
+        "stock": 41,
+        "page": 28
+    },
+    {
+        "reference": "27307",
+        "original_price": 256.85,
+        "stock": 23,
+        "page": 28
+    },
+    {
+        "reference": "27308",
+        "original_price": 199.71,
+        "stock": 85,
+        "page": 28
+    },
+    {
+        "reference": "27309",
+        "original_price": 156.85,
+        "stock": 43,
+        "page": 28
+    },
+    {
+        "reference": "27310",
+        "original_price": 156.86,
+        "stock": 48,
+        "page": 29
+    },
+    {
+        "reference": "27311",
+        "original_price": 199.71,
+        "stock": 28,
+        "page": 29
+    },
+    {
+        "reference": "27312",
+        "original_price": 194.0,
+        "stock": 54,
+        "page": 29
+    },
+    {
+        "reference": "27313",
+        "original_price": 171.14,
+        "stock": 22,
+        "page": 29
+    },
+    {
+        "reference": "27314",
+        "original_price": 202.57,
+        "stock": 0,
+        "page": 29
+    },
+    {
+        "reference": "27316",
+        "original_price": 128.28,
+        "stock": 61,
+        "page": 29
+    },
+    {
+        "reference": "27317",
+        "original_price": 171.14,
+        "stock": 1,
+        "page": 29
+    },
+    {
+        "reference": "27319",
+        "original_price": 216.85,
+        "stock": 35,
+        "page": 29
+    },
+    {
+        "reference": "27321",
+        "original_price": 214.0,
+        "stock": 23,
+        "page": 30
+    },
+    {
+        "reference": "27322",
+        "original_price": 185.42,
+        "stock": 32,
+        "page": 30
+    },
+    {
+        "reference": "27325",
+        "original_price": 254.0,
+        "stock": 26,
+        "page": 30
+    },
+    {
+        "reference": "27326",
+        "original_price": 214.0,
+        "stock": 13,
+        "page": 30
+    },
+    {
+        "reference": "27327",
+        "original_price": 248.28,
+        "stock": 16,
+        "page": 30
+    },
+    {
+        "reference": "27328",
+        "original_price": 196.85,
+        "stock": 15,
+        "page": 30
+    },
+    {
+        "reference": "27329",
+        "original_price": 199.71,
+        "stock": 25,
+        "page": 30
+    },
+    {
+        "reference": "29607",
+        "original_price": 88.28,
+        "stock": 23,
+        "page": 30
+    },
+    {
+        "reference": "29608",
+        "original_price": 185.42,
+        "stock": 13,
+        "page": 31
+    },
+    {
+        "reference": "29609",
+        "original_price": 185.42,
+        "stock": 0,
+        "page": 31
+    },
+    {
+        "reference": "29610",
+        "original_price": 171.14,
+        "stock": 3,
+        "page": 31
+    },
+    {
+        "reference": "29611",
+        "original_price": 116.85,
+        "stock": 3,
+        "page": 31
+    },
+    {
+        "reference": "29612",
+        "original_price": 151.14,
+        "stock": 9,
+        "page": 31
+    },
+    {
+        "reference": "29614",
+        "original_price": 199.71,
+        "stock": 12,
+        "page": 31
+    },
+    {
+        "reference": "29615",
+        "original_price": 308.28,
+        "stock": 11,
+        "page": 31
+    },
+    {
+        "reference": "29616",
+        "original_price": 199.71,
+        "stock": 63,
+        "page": 31
+    },
+    {
+        "reference": "29617",
+        "original_price": 256.85,
+        "stock": 45,
+        "page": 32
+    },
+    {
+        "reference": "29618",
+        "original_price": 256.85,
+        "stock": 16,
+        "page": 32
+    },
+    {
+        "reference": "29619",
+        "original_price": 274.0,
+        "stock": 43,
+        "page": 32
+    },
+    {
+        "reference": "29620",
+        "original_price": 271.14,
+        "stock": 2,
+        "page": 32
+    },
+    {
+        "reference": "29621",
+        "original_price": 242.57,
+        "stock": 66,
+        "page": 32
+    },
+    {
+        "reference": "29622",
+        "original_price": 274.0,
+        "stock": 79,
+        "page": 32
+    },
+    {
+        "reference": "29623",
+        "original_price": 274.0,
+        "stock": 5,
+        "page": 32
+    },
+    {
+        "reference": "29624",
+        "original_price": 228.28,
+        "stock": 51,
+        "page": 32
+    },
+    {
+        "reference": "29625",
+        "original_price": 271.14,
+        "stock": 30,
+        "page": 33
+    },
+    {
+        "reference": "29626",
+        "original_price": 271.14,
+        "stock": 20,
+        "page": 33
+    },
+    {
+        "reference": "29627",
+        "original_price": 291.14,
+        "stock": 0,
+        "page": 33
+    },
+    {
+        "reference": "29636",
+        "original_price": 96.85,
+        "stock": 23,
+        "page": 33
+    },
+    {
+        "reference": "29637",
+        "original_price": 119.71,
+        "stock": 9,
+        "page": 33
+    },
+    {
+        "reference": "29638",
+        "original_price": 199.71,
+        "stock": 13,
+        "page": 33
+    },
+    {
+        "reference": "29639",
+        "original_price": 242.57,
+        "stock": 4,
+        "page": 33
+    },
+    {
+        "reference": "29640",
+        "original_price": 228.28,
+        "stock": 13,
+        "page": 33
+    },
+    {
+        "reference": "29641",
+        "original_price": 199.71,
+        "stock": 4,
+        "page": 34
+    },
+    {
+        "reference": "91009",
+        "original_price": 188.28,
+        "stock": 10,
+        "page": 34
+    },
+    {
+        "reference": "91010",
+        "original_price": 136.85,
+        "stock": 4,
+        "page": 34
+    },
+    {
+        "reference": "91011",
+        "original_price": 165.42,
+        "stock": 34,
+        "page": 34
+    },
+    {
+        "reference": "91012",
+        "original_price": 188.28,
+        "stock": 0,
+        "page": 34
+    },
+    {
+        "reference": "91014",
+        "original_price": 162.57,
+        "stock": 12,
+        "page": 34
+    },
+    {
+        "reference": "93088",
+        "original_price": 148.28,
+        "stock": 27,
+        "page": 34
+    },
+    {
+        "reference": "93089",
+        "original_price": 114.0,
+        "stock": 25,
+        "page": 34
+    },
+    {
+        "reference": "93090",
+        "original_price": 128.28,
+        "stock": 40,
+        "page": 35
+    },
+    {
+        "reference": "93091",
+        "original_price": 171.14,
+        "stock": 22,
+        "page": 35
+    },
+    {
+        "reference": "93092",
+        "original_price": 176.86,
+        "stock": 23,
+        "page": 35
+    },
+    {
+        "reference": "93093",
+        "original_price": 208.28,
+        "stock": 27,
+        "page": 35
+    },
+    {
+        "reference": "93094",
+        "original_price": 191.14,
+        "stock": 46,
+        "page": 35
+    },
+    {
+        "reference": "93095",
+        "original_price": 256.85,
+        "stock": 12,
+        "page": 35
+    },
+    {
+        "reference": "93096",
+        "original_price": 199.71,
+        "stock": 31,
+        "page": 35
+    },
+    {
+        "reference": "93097",
+        "original_price": 199.71,
+        "stock": 22,
+        "page": 35
+    },
+    {
+        "reference": "93098",
+        "original_price": 225.42,
+        "stock": 44,
+        "page": 36
+    },
+    {
+        "reference": "93099",
+        "original_price": 214.0,
+        "stock": 10,
+        "page": 36
+    },
+    {
+        "reference": "95078",
+        "original_price": 71.14,
+        "stock": 0,
+        "page": 36
+    },
+    {
+        "reference": "95079",
+        "original_price": 125.42,
+        "stock": 24,
+        "page": 36
+    },
+    {
+        "reference": "95080",
+        "original_price": 291.14,
+        "stock": 16,
+        "page": 36
+    },
+    {
+        "reference": "95081",
+        "original_price": 239.71,
+        "stock": 6,
+        "page": 36
+    },
+    {
+        "reference": "95082",
+        "original_price": 154.0,
+        "stock": 21,
+        "page": 36
+    },
+    {
+        "reference": "95083",
+        "original_price": 242.57,
+        "stock": 24,
+        "page": 36
+    },
+    {
+        "reference": "95084",
+        "original_price": 339.71,
+        "stock": 43,
+        "page": 37
+    },
+    {
+        "reference": "95085",
+        "original_price": 239.71,
+        "stock": 27,
+        "page": 37
+    },
+    {
+        "reference": "95086",
+        "original_price": 271.14,
+        "stock": 17,
+        "page": 37
+    },
+    {
+        "reference": "95087",
+        "original_price": 222.57,
+        "stock": 59,
+        "page": 37
+    },
+    {
+        "reference": "95088",
+        "original_price": 214.0,
+        "stock": 3,
+        "page": 37
+    },
+    {
+        "reference": "95089",
+        "original_price": 325.42,
+        "stock": 37,
+        "page": 37
+    }
+]
