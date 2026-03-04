@@ -1,0 +1,5 @@
+# Ignore everything in input
+input/*
+**/__pycache__/
+normalize-data/data/*
+api/node_modules
